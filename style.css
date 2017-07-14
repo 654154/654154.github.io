@@ -1,0 +1,17 @@
+header {
+  height: 40px;
+  background: salmon; 
+  text-align: center;
+  color: white; 
+}
+
+body {
+  background: mistyrose; 
+}
+
+img {
+  height: 150px;
+  border: 5px solid salmon;
+  float: left;
+  margin-right: 15px; 
+}
